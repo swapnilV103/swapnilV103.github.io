@@ -1,5 +1,5 @@
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
+<h2 align="center">I'm a Software Development Engineer in Test (SDET) with 3+ Years of Exp.💻, Avid Gamer 👨‍💻, and Passionate Fitness freak 🏋️‍♂️</h2>
 
 ## 📈 GitHub Stats 
 
