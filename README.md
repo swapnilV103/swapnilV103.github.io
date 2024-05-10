@@ -6,7 +6,7 @@
 </p>
 ![logo](https://github.com/swapnilV103/swapnilV103.github.io/blob/main/Requirements/swapnil%20V%20banner.png)
 
-![Your Banner](https://github.com/swapnilV103/swapnilV103.github.io/blob/main/Requirements/swapnil%20V%20banner.png)
+![Your Banner](swapnilbanner.png)
 
 
 <h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/" target="_blank" rel="noreferrer">Swapnil</a> 👋</h3>
