@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/swapnilV103/swapnilV103.github.io/blob/main/Requirements/swapnil%20V%20banner.png" alt="My banner">
+    <img src="https://github.com/swapnilV103/swapnilV103.github.io/blob/main/Requirements/swapnil%20V%20banner.png">
   </a>
   <img src="https://github.com/swapnilV103/swapnilV103.github.io/blob/main/Requirements/swapnil%20V%20banner.png" alt="My banner">
 </p>
