@@ -61,7 +61,7 @@
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:swapnilidawate103@gmail.com">swapnilidawate@infor.com</a> or connect with me on <a href="https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:swapnilidawate103@gmail.com">swapnilidawate103@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/">LinkedIn</a>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/">
