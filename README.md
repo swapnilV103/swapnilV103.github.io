@@ -32,6 +32,9 @@ feedback for the regression suite </b>
 efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
 in test coverage</b>
 
+## 💻 My Projects 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin99&repo=AutomationFramework)](https://github.com/jatin99/AutomationFramework)
 
 ## Skills
 
