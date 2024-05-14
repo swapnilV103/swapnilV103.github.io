@@ -68,6 +68,7 @@ in test coverage</b>
     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=919356432283&text=Hello">
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
   </a>
 </p>
   
