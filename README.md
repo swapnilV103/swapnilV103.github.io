@@ -20,17 +20,17 @@
   
 ## 🥇 Achievements
 
--Implemented thorough manual testing strategies for the application, ensuring
-seamless user experience and functionality across various devices which gave
-<b>20% improvement in overall software stability and performance</b>
+- Implemented thorough manual testing strategies for the application, ensuring
+  seamless user experience and functionality across various devices which gave
+  <b>20% improvement in overall software stability and performance</b>
 
--Worked with a team of 4 QA members on automation best practices,
-resulting in <b> Reduction of testing effort by 30% and help developers and testers get quick
-feedback for the regression suite </b>
+- Worked with a team of 4 QA members on automation best practices,
+  resulting in <b> Reduction of testing effort by 30% and help developers and testers get quick
+  feedback for the regression suite </b>
 
--Engineered automation scripts using Selenium and Java to increase testing
-efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
-in test coverage</b>
+- Engineered automation scripts using Selenium and Java to increase testing
+  efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
+  in test coverage</b>
 
 ## 💻 My Projects 
 
