@@ -6,6 +6,13 @@
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) with 3+ Years of Exp.💻, Avid Gamer 👨‍💻, and Passionate Fitness freak 🏋️‍♂️</h2>
 
 
+## 🔭 I'm currently working on
+
+- Microservices Testing Automation Framework
+- Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
+- Postman Newman Automated Test 
+
+
 ## Skills
 
 <h3 align="left">Languages and Tools:</h3>
