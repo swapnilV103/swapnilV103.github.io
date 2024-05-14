@@ -54,3 +54,20 @@ in test coverage</b>
 ## 📈 GitHub Stats 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilV103&show_icons=true&locale=en" alt="SwapnilIdawate" /></p>
+
+
+## Contact
+
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:swapnilidawate103@gmail.com">swapnilidawate@infor.com</a> or connect with me on <a href="https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/">LinkedIn</a>.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/">
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  </a>
+  <a href="https://wa.link/8nquvx">
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+  </a>
+</p>
+  
+
+<p align="center">Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.</p>
