@@ -34,7 +34,7 @@ in test coverage</b>
 
 ## 💻 My Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin99&repo=AutomationFramework)](https://github.com/jatin99/AutomationFramework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swapnilV103&repo=SeleniumAutomationFramework)](https://github.com/swapnilV103/SeleniumAutomationFramework)
 
 ## Skills
 
