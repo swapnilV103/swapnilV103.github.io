@@ -1,4 +1,6 @@
-
+<head>
+  <title>Swapnil Idatwae</title>
+</head>
 [![Your Banner](swapnilbanner.png)](https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/)
 
 
