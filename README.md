@@ -74,6 +74,3 @@
   
 
 <p align="center">Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilv103&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilv103" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnilv103" alt="swapnilv103" /></a> </p>
