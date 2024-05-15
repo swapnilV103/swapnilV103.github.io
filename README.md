@@ -75,3 +75,4 @@
 
 <p align="center">Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.</p>
 Here's a sentence with a footnote. [^1]
+[^1]: This is the footnote.
