@@ -1,8 +1,8 @@
 
-[![Your Banner](swapnilbanner.png)](https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/)
+[![Your Banner](swapnilbanner.png)](https://www.linkedin.com/in/swapnil-vidhate-025270151/)
 
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/" target="_blank" rel="noreferrer">Swapnil</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/swapnil-vidhate-025270151/" target="_blank" rel="noreferrer">Swapnil</a> 👋</h3>
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) with 3+ Years of Exp.💻, Avid Gamer 👨‍💻, and Passionate Fitness freak 🏋️‍♂️</h2>
 
 
@@ -61,10 +61,10 @@
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:swapnilidawate103@gmail.com">swapnilidawate103@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:swapnilidawate103@gmail.com">swapnilidawate103@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/swapnil-vidhate-025270151/">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swapnil-idawate-vidhate-025270151/">
+  <a href="https://www.linkedin.com/in/swapnil-vidhate-025270151/">
     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=919356432283&text=Hello">
